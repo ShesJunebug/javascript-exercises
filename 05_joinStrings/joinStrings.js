@@ -9,7 +9,16 @@
 
 // Add your code right below, good luck!
 
+let firstName = "June"
+let lastName = "Buggsley"
+let thisYear = 2025
+let birthYear = 2000
+let fullName = firstName + " " + lastName
+let age = thisYear - birthYear
 
+let greeting = "hello, my name is " + fullName + " and I am " + age + " years old!"
+
+console.log(greeting)
 
 
 
